@@ -10,4 +10,8 @@ my discord! And you will grow up like me or SfE! (No promise)
 
 # That's it! No, wait... THE LINKS!
 
-<iframe src="https://discordapp.com/widget?id=708698067175604245&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0"></iframe>
+https://discordapp.com/api/guilds/708698067175604245/widget.json
+
+https://discord.gg/VF5dGbJ (My discord - stay tuned, guys!)
+
+
